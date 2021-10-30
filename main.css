@@ -283,11 +283,11 @@ a:hover {
 }
 
 .article_other_img:hover {
-    background-image: url("../assets/image/hits_hover.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/sxiaoy/css_img/image/hits_hover.png");
 }
 
 .article_other_img {
-    background-image: url("../assets/image/hits.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/sxiaoy/css_img/image/hits.png");
     width: 40px;
     height: 40px;
     background-size: cover;
@@ -447,11 +447,11 @@ a:hover {
 }
 
 .article_other_img:hover {
-    background-image: url("../assets/image/hits_hover.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/sxiaoy/css_img/image/hits_hover.png");
 }
 
 .article_other_img {
-    background-image: url("../assets/image/hits.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/sxiaoy/css_img/image/hits.png");
     width: 40px;
     height: 40px;
     background-size: cover;
