@@ -246,7 +246,7 @@ a:hover {
 }
 
 .input_info {
-    width: 45%;
+    width: 45% !important;
     float: left;
 }
 
@@ -431,12 +431,15 @@ a:hover {
 }
 
 .reply_box {
-    width: 80%;
+    width: 78%;
     padding: 0 10%;
     height: 240px;
+    border-left: 1px solid #e5e9ef;
+    border-right: 1px solid #e5e9ef;
+    margin: 1% 1%;
     background-color: #fff;
     position: absolute;
-    z-index: 100000
+    z-index: 100000;
 }
 
 .article_other {
